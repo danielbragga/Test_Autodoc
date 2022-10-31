@@ -29,6 +29,7 @@ Seus usuários devem ser capazes de:
 - Veja os estados de foco para todos os elementos interativos na página
 - Veja dados de temperatura mínima, previsão ao longo da semana, umidade, vento e sensação térmica.
 - O usuário poderá ver o dia da semana, mês e horário específico de acodo com a região selecionada.
+- O usuário também pode, caso permitir, selecionar a localização aproximada para obter dados da previsão do tempo da localidade em que se encontra.
 
 OBS: A cor da aplicação deve mudar de acordo com o clima requisitado à API.
 
