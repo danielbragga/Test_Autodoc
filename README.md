@@ -38,7 +38,7 @@ OBS: A cor da aplicação deve mudar de acordo com o clima requisitado à API.
 
 - Visual Studio
 - yarn //install all dependencies
-
+- npm start
 #
 
 ## Deploy of my project
