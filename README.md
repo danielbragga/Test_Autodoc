@@ -13,7 +13,7 @@ Projeto de uma aplicação que deverá requisitar à API de previsão do tempo e
 
 - Foram adicionadas outras funcionalidades além de três botões com localidades distintas, como: Barra de pesquisa, conversão de Graus celsius para Graus Fahrenheit e previsões da semana (de acordo com cada dia da semana)
 
-- A linguagem atribuída à aplicação é o inglês, com o objetivo de manter o padrão com os dados requisitados da API OpenWeather.
+- O idioma atribuído à aplicação é o inglês, com o objetivo de manter o padrão com os dados requisitados da API OpenWeather.
 
 #
 
@@ -54,7 +54,6 @@ Meu projeto está hospedado no Netlify no link abaixo:
 - [React](https://reactjs.org/) - JS library
 - CSS custom properties
 - Javascript
-- TypeScript
 - [OWM](https://openweathermap.org/) (API key)
 - [Firebase Realtime Database](https://firebase.google.com/) (API key and project URL)
 - React-toastify
