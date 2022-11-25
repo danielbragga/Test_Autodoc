@@ -45,7 +45,7 @@ OBS: A cor da aplicação deve mudar de acordo com o clima requisitado à API.
 ## Deploy of my project
 
 Meu projeto está hospedado no Netlify no link abaixo:
-- [Netlify](https://test-autodoc-daniel-braga.netlify.app/)
+- [Netlify](https://weather-app-daniel-braga.netlify.app/)
 
 #
 
