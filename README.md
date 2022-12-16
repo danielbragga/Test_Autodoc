@@ -7,7 +7,7 @@
 ![Design preview for the Project](./public/images/image1.png)
 ![Design preview for the Project](./public/images/image2.png)
 
-## Welcome! 👋
+## Welcome!👋
 
 Projeto de uma aplicação que deverá requisitar à API de previsão do tempo e mostrar o resultado em um outro componente de visualização através de props.
 
