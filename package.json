@@ -1,33 +1,16 @@
 {
-<<<<<<< HEAD
   "name": "react-weather-app",
-=======
-  "name": "weather_app",
->>>>>>> dfac73505cd79a7a9593a2f90d2bdafb19d39efe
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@iconscout/react-unicons": "^1.1.6",
-<<<<<<< HEAD
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "luxon": "^2.5.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1",
-    "react-toastify": "^9.0.2",
-=======
-    "@testing-library/jest-dom": "^5.16.5",
+    "@iconscout/react-unicons": "^2.0.2",
+    "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "firebase": "^9.13.0",
-    "luxon": "^3.0.4",
+    "luxon": "^3.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "react-toastify": "^9.0.8",
->>>>>>> dfac73505cd79a7a9593a2f90d2bdafb19d39efe
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -55,14 +38,6 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "autoprefixer": "^10.4.7",
-    "postcss": "^8.4.14",
-    "tailwindcss": "^3.0.24"
-=======
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.18",
-    "tailwindcss": "^3.2.1"
->>>>>>> dfac73505cd79a7a9593a2f90d2bdafb19d39efe
+    "tailwindcss": "^3.3.3"
   }
 }
