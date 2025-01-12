@@ -1,0 +1,9 @@
+window.env = {
+  FIREBASE_API_KEY: "AIzaSyAzPxVw4MWOmpmpLZ6bS2HIfsYWuHn-iw4",
+  FIREBASE_AUTH_DOMAIN: "autodoc-test.firebaseapp.com",
+  FIREBASE_PROJECT_ID: "autodoc-test",
+  FIREBASE_STORAGE_BUCKET: "weather-app-13dd4.appspot.com",
+  FIREBASE_MESSAGING_SENDER_ID: "322301297069",
+  FIREBASE_APP_ID: "1:989785116753:web:fbd49629a774e0e6faa870",
+  FIREBASE_MEASUREMENT_ID: "G-NYSF8EJ452",
+};

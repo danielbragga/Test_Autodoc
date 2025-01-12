@@ -1,4 +1,5 @@
 import React from "react";
+<<<<<<< HEAD
 import { iconUrlFromCode } from "../services/weatherService";
 
 function Forecast({ title, items }) {
@@ -29,6 +30,18 @@ function Forecast({ title, items }) {
           </div>
         ))} */}
 
+=======
+import { iconUrlFromCode } from "./services/ForecastServices";
+
+function Forecast({ title, items }) {
+  return (
+    <div>
+      <div className="flex items-center justify-start mt-6">
+        <p className=" text-white font-medium uppercase">{title}</p>
+      </div>
+      <hr className="my-2" />
+      <div className="flex flex-row items-center justify-between text-white">
+>>>>>>> dfac73505cd79a7a9593a2f90d2bdafb19d39efe
         {items.map((item, index) => (
           <div
             key={index}

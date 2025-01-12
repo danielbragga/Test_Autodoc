@@ -4,8 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 
 @layer base {
+=======
+@project base {
+>>>>>>> dfac73505cd79a7a9593a2f90d2bdafb19d39efe
     html {
         font-family: 'Poppins', sans-serif;
     }
